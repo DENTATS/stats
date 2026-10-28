@@ -1,0 +1,6 @@
+{
+  "name": "StatsMate Research",
+  "description": "Professional sample size calculator, biostatistical analysis suite, and verifiable calculation certificate system for biomedical and clinical research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
